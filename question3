@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words.
+A git branch is like a secondary repository that 'branches' off from the main, master repository. It allows a user to make changes to a project and keep a recrcord of those changes via git
+without actually changing the primary master branch.

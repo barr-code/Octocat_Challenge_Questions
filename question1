@@ -1,1 +1,3 @@
-Explain what git clone does, in your own words.
+Git clone does essentially what you'd expect. It clones a Github repositoryy.. W
+First you create a dlocal directory for the project you are trying to make a copy of. 
+Calling 'git clone [project's github url]' will then pull all the various commits from the Github repository so that you have a local git repository with identical information.
